@@ -10,9 +10,8 @@ body {
 }
 
 #rodape{
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-   width: 90%;
-  max-width: 900px;
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
   border-top: 1px dashed #b5e853;
   padding: 20px 0;
   margin: 0 0 40px 0;
