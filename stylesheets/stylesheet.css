@@ -10,10 +10,11 @@ body {
 }
 
 #rodape{
-  width: 90%;
-  border: 1px dashed #b5e853;
+  width: 100%;
+  border-top: 1px dashed #b5e853;
   padding: 20px 0;
   margin: 0 0 40px 0;
+  text-align: center;
 }
 
 #menu{
