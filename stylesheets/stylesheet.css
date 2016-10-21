@@ -9,6 +9,12 @@ body {
   text-align: justify;
 }
 
+#menu{
+  width: 90%;
+  max-width: 900px;
+  margin: 0 auto;  
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
