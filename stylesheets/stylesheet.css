@@ -19,7 +19,7 @@ body {
 
 #menu{
   width: 80%;
-  max-width: 900px;
+  max-width: 750px;
   margin: 0 auto;  
 }
 
@@ -27,7 +27,7 @@ body {
 
 .container {
   width: 80%;
-  max-width: 800px;
+  max-width: 750px;
   margin: 0 auto;
 }
 
