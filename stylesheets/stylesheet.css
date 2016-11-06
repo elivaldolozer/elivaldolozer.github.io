@@ -3,7 +3,7 @@ body {
   padding: 0;
   background: #151515 url("../images/bkg.png") 0 0;
   color: #eaeaea;
-  font: 10px;
+  font: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   text-align: justify;
@@ -26,7 +26,7 @@ footer{
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 80%;
+  width: 85%;
   max-width: 750px;
   margin: 0 auto;
 }
