@@ -252,3 +252,8 @@ a {
 .cf {
   zoom:1;
 }
+
+
+h2:before {
+  content: ">> ";
+}
