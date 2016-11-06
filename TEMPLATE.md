@@ -4,7 +4,7 @@ layout: default
 
 ## Template
 
-Formatação conforme markdown.
+Formatação conforme [markdown](https://pt.wikipedia.org/wiki/Markdown).
 
 Exemplos:
 
