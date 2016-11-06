@@ -4,6 +4,6 @@ layout: default
 
 ## Contato
 
-Aqui vai o conteúdo...
+Conteúdo...
 
 =D
