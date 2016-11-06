@@ -64,9 +64,8 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: #CCC930; /* amarelo */
   letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
 }
 
 header h1:before {
@@ -100,7 +99,7 @@ section img {
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: #CCC930; /* amarelo */
   letter-spacing: -0.03em;
 }
 
@@ -146,7 +145,7 @@ ul li:before {
   content: ">>";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
-  color: #b5e853;
+  color: #CCC930; /* amarelo */
   margin-left: -37px;
   margin-right: 21px;
   line-height: 16px;
@@ -163,7 +162,7 @@ pre {
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 14px;
-  color: #b5e853;
+  color: #CCC930; /* amarelo */
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -179,7 +178,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #CCC930; /* amarelo */;
   padding: 5px 10px;
 }
 
@@ -190,7 +189,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #CCC930; /* amarelo */
   color: #b5e853;
 }
 
