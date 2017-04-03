@@ -79,6 +79,14 @@ header h2 {
   color: #666;
 }
 
+header h2:after {
+  content: "< ";
+}
+
+header h2:before {
+  content: " />";
+}
+
 #downloads .btn {
   display: inline-block;
   text-align: center;
