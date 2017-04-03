@@ -79,11 +79,11 @@ header h2 {
   color: #666;
 }
 
-header h2:after {
+#main_content h2:before {
   content: "< ";
 }
 
-header h2:before {
+#main_content h2:after {
   content: " />";
 }
 
