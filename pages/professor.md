@@ -6,7 +6,7 @@ layout: default
 
 ### Trajetória Acadêmica
 
-Meu nome é Elivaldo Lozer Fracalossi Ribeiro, bacharel em Ciência da Computação (2010-2014), Mestre em Modelagem Computacional (2014-2016) e Doutorando em Computação Aplicada (2016-AtéQuandoDeusQuiser).
+Meu nome é Elivaldo Lozer Fracalossi Ribeiro, bacharel em Ciência da Computação (2010-2013), Mestre em Modelagem Computacional (2014-2015) e Doutorando em Computação Aplicada (2016-AtéQuandoDeusQuiser).
 
 Como Trabalho de Conclusão de Curso, fiz parte de uma equipe cujo objetivo era desenvolver o sistema de Urgência e Emergência para o Hospital Luiz Viana Filho, localizado em Ilhéus, Bahia. ([TCC](/files/TCC-Elivaldo-Final.pdf), [Slide](/files/ApresTCC.pdf))
 
