@@ -2,15 +2,14 @@
 layout: default
 ---
 
-## Welcome to GitHub Pages
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here 
-<a href="https://guides.github.com/features/mastering-markdown/" target="_blank">using GitHub Flavored Markdown</a>, select a template crafted by a designer, and publish. After your page is generated, you can check out the new gh-pages branch locally. If you’re 
-using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+## Página Inicial
 
-## Lorem ipsum
+Olá.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla at libero eget odio tempus congue a at odio. Interdum et malesuada 
-fames ac ante ipsum primis in faucibus. Vestibulum porta malesuada est nec volutpat. Duis eros leo, consectetur non egestas non, 
-suscipit sit amet arcu. Vestibulum sit amet nisi ipsum. Duis dictum viverra rhoncus. Nunc posuere, nunc ut feugiat aliquet, justo 
-neque condimentum nisi, ac interdum justo risus ut nisi. Vestibulum et hendrerit leo. Vestibulum ante ipsum primis in faucibus orci
-luctus et ultrices posuere cubilia Curae.
+Meu Nome é Elivaldo Lozer, bacharel em Ciência da Computação, pela [UESC](http://uesc.br/), Mestre em Modelagem Computacional pela mesma instituição. Atualmente, sou Doutorando em Computação Aplicada na [UFBA](https://www.ufba.br/), pelo [Programa de Pós-Graduação em Ciência da Computação](http://wiki.dcc.ufba.br/PGComp).
+
+Sou professor Assistente da Área de Computação e suas Tecnologias na UFSB, no qual alimento esse espaço APENAS com informações acadêmicas ([ensino](/pages/ensino) e [pesquisa](/pages/pesquisa)). Para mais informações, consultar [aqui](/pages/professor).
+
+Contatos por email: elivaldolozerfr![arr](http://www.inf.ufg.br/sites/default/files/uploads/arroba-t.png)gmail.com
+
+"Eu não temo os computadores. Eu temo a ausência deles." (Isaac Asimov)
