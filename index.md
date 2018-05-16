@@ -11,8 +11,8 @@ Meu nome é Elivaldo Lozer Fracalossi Ribeiro, bacharel em Ciência da Computaç
 Sou professor Assistente da Área de Computação e suas Tecnologias na [UFSB](http://www.ufsb.edu.br), no qual alimento esse espaço APENAS com informações acadêmicas:
 
 Acesse a página
-+ [ensino](/pages/ensino), para informações sobre componentes curriculares (atuais e passados);
-+ [pesquisa](/pages/pesquisa), para informações sobre meus tópicos de pesquisa; e
-+ [professor](/pages/professor), para mais informações sobre mim.
++ [professor](/pages/professor), para mais informações sobre mim;
++ [ensino](/pages/ensino), para informações sobre componentes curriculares (atuais e passados); e
++ [pesquisa](/pages/pesquisa), para informações sobre meus tópicos de pesquisa.
 
 Contatos por email: elivaldolozerfr@gmail.com
