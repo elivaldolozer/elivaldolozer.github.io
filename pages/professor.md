@@ -16,7 +16,7 @@ Atualmente, no doutorado, realizo pesquisas nas áreas de computação em nuvens
 
 ### UFSB
 
-Fui professor substituto na [UFSB](http://www.ufsb.edu.br/) durante 15 meses (05/2015 até 09/2016). Finalmente, em 2018, retornei como professor do magistério superior (efetivo), conforme publicado no DOU dia 03/05/2018.
+Fui professor substituto na [UFSB](http://www.ufsb.edu.br/) durante 15 meses (05/2015 até 09/2016). Finalmente, em 2018, retornei como professor do magistério superior (efetivo), conforme [portaria](http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=08/05/2018&jornal=529&pagina=36) publicada no DOU dia 03/05/2018.
 
 ### Mais detalhes
 
