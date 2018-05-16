@@ -6,7 +6,7 @@ layout: default
 
 ### Trajetória Acadêmica
 
-Sou bacharel em Ciência da Computação (2010-2013), Mestre em Modelagem Computacional (2014-2015) e Doutorando em Computação Aplicada (2016-AtéQuandoDeusQuiser).
+Sou bacharel em Ciência da Computação pela [UESC](http://uesc.br/) e Mestre em [Modelagem Computacional](http://nbcgib.uesc.br/ppgmc/) pela mesma instituição. Atualmente, sou Doutorando em Computação Aplicada na [UFBA](https://www.ufba.br/) pelo [PGComp](http://wiki.dcc.ufba.br/PGComp) (Programa de Pós-Graduação em Ciência da Computação).
 
 Como Trabalho de Conclusão de Curso, fiz parte de uma equipe cujo objetivo era desenvolver o sistema de Urgência e Emergência para o Hospital Luiz Viana Filho, localizado em Ilhéus, Bahia. ([TCC](/files/TCC-Elivaldo-Final.pdf), [Slide](/files/ApresTCC.pdf))
 
