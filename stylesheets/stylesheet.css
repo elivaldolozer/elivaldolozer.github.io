@@ -145,17 +145,8 @@ dt {
   font-weight: bold;
 }
 
-/*ul li {
-  list-style: none;
-}*/
-
 ul li:before {
-  /*content: ">>";
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #CCC930;
-  margin-left: -37px;
-  margin-right: 21px;
-  line-height: 16px;*/
+  line-height: 16px;
   font-size: 20px;
 }
 
