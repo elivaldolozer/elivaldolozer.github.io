@@ -10,6 +10,6 @@ Meu Nome é Elivaldo Lozer, bacharel em Ciência da Computação, pela [UESC](ht
 
 Sou professor Assistente da Área de Computação e suas Tecnologias na [UFSB](http://www.ufsb.edu.br), no qual alimento esse espaço APENAS com informações acadêmicas ([ensino](/pages/ensino) e [pesquisa](/pages/pesquisa)). Para mais informações, consultar [aqui](/pages/professor).
 
-Contatos por email: elivaldolozerfr![arr](http://www.inf.ufg.br/sites/default/files/uploads/arroba-t.png)gmail.com
+Contatos por email: elivaldolozerfr@gmail.com
 
 "Eu não temo os computadores. Eu temo a ausência deles." (Isaac Asimov)
