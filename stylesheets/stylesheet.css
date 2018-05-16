@@ -152,12 +152,11 @@ dt {
 ul li:before {
   /*content: ">>";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size: 13px;
-  color: #CCC930; /* amarelo */
+  color: #CCC930;
   margin-left: -37px;
   margin-right: 21px;
   line-height: 16px;*/
-  width: 5em;
+  font-size: 13px;
 }
 
 blockquote {
