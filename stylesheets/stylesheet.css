@@ -147,17 +147,18 @@ dt {
 
 /*ul li {
   list-style: none;
-}
+}*/
 
 ul li:before {
-  content: ">>";
+  /*content: ">>";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
   color: #CCC930; /* amarelo */
   margin-left: -37px;
   margin-right: 21px;
-  line-height: 16px;
-}*/
+  line-height: 16px;*/
+  width: 1em
+}
 
 blockquote {
   color: #aaa;
