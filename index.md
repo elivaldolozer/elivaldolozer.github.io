@@ -12,7 +12,7 @@ Sou professor Assistente da Área de Computação e suas Tecnologias na [UFSB](h
 
 Acesse a página
 + [professor](/pages/professor), para mais informações sobre mim;
-+ [ensino](/pages/ensino), para informações sobre componentes curriculares (atuais e passados); e
++ [ensino](/pages/ensino), para informações e materiais de componentes curriculares (atuais e passados); e
 + [pesquisa](/pages/pesquisa), para informações sobre meus tópicos de pesquisa.
 
 Contatos por email: elivaldolozerfr@gmail.com
