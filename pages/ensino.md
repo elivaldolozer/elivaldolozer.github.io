@@ -10,4 +10,5 @@ layout: default
   + [Antigo site](https://sites.google.com/site/elivaldolozerfr/home) (perdão pelos possíveis links quebrados)
 * 2018.2
   + [a](/pages/componentes/2018.2.a)
-  + [b](/pages/teste)
+  + [b](/pages/teste.1.md)
+  + [c](/pages/teste.1)
