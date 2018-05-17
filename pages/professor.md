@@ -20,4 +20,4 @@ Fui professor substituto na [UFSB](http://www.ufsb.edu.br/) durante 15 meses (05
 
 ### Mais detalhes
 
-Informações mais detalhadas estão descritas na página [Pesquisa](/pages/pesquisa).
+As minhas Áreas de Interesse e Publicações estão descritas na página [Pesquisa](/pages/pesquisa).
