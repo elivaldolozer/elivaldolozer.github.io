@@ -1,2 +1,2 @@
-# https://www.elivaldolozer.github.io
+# https://elivaldolozer.github.io
 My academic website
