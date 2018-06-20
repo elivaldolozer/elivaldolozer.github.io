@@ -14,8 +14,6 @@ Não necessariamente nessa ordem:
 + Formalização matemática 
   + Lógica de Descrição
   + Modelos canônicos
-+ Engenharia de Requisitos
-  + Principalmente sob a ótica do desenvolvedor
 + Banco de Dados
   + Principalmente os não-relacionais (NoSQL)
 + Desenvolvimento (programação)
