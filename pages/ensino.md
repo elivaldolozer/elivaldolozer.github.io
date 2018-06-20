@@ -9,5 +9,3 @@ layout: default
 (recentes primeiro)
 + 2018.2
   + [Matemática e Espaço (T3 e T4)](/CC/2018.2.ME)
-+ 2015.2, 2015.3, 2016.1 e 2016.2
-  + [Antigo site](https://sites.google.com/site/elivaldolozerfr/home) (perdão pelos possíveis links quebrados)
