@@ -7,7 +7,7 @@ layout: default
 ### Disciplinas na graduação
 
 (recentes primeiro)
-+ 2018.1
++ 2018.3
   + [Oficina: Torneio de Jogos](#)
   + [Introdução ao Raciocínio Computacional](#)
   + [Matemática e Cotiano](#)
