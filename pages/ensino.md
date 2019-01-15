@@ -8,8 +8,8 @@ layout: default
 
 (recentes primeiro)
 + 2019.1
-  + Laboratório de Dispositivos Móveis Educacionais
   + Robótica Educativa
+  + Laboratório de Dispositivos Móveis Educacionais
 + 2018.3
   + [Matemática e Cotiano](/CC/2018-3-MC)
   + [Introdução ao Raciocínio Computacional](/CC/2018-3-IRC)
