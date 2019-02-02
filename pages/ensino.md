@@ -8,7 +8,7 @@ layout: default
 
 (recentes primeiro)
 + 2019.1
-  + Robótica Educativa
+  + Perspectivas Matemáticas e Computacionais em Saúde
   + Laboratório de Dispositivos Móveis Educacionais
 + 2018.3
   + [Matemática e Cotiano](/CC/2018-3-MC)
