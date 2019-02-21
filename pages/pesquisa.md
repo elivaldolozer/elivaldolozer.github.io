@@ -12,10 +12,7 @@ Não necessariamente nessa ordem:
   + _Software-as-a-Service_ e _Data-as-a-Service_
 + Lógica Fuzzy
 + Formalização matemática 
-  + Lógica de Descrição
-  + Modelos canônicos
 + Banco de Dados
-  + Principalmente os não-relacionais (NoSQL)
 + Desenvolvimento (programação)
 
 ### Currículo Completo
